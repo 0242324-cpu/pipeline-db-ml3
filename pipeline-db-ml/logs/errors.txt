@@ -1,0 +1,451 @@
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187650951461968.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187650925749152.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651636326656.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651080418912.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187650351051680.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187650993182720.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651418835536.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651362200736.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651646804224.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651145929632.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field
+Traceback (most recent call last):
+  File "/app/app.py", line 2, in <module>
+    from src.apps.api_app.ApiApp import ApiApp
+  File "/app/src/apps/api_app/ApiApp.py", line 5, in <module>
+    from src.contexts.api.controllers import HealthCheckController
+  File "/app/src/contexts/api/controllers/__init__.py", line 2, in <module>
+    from .TrainModelController import TrainModelController
+  File "/app/src/contexts/api/controllers/TrainModelController.py", line 6, in <module>
+    from src.contexts.api.models import PredictorRequest
+  File "/app/src/contexts/api/models/__init__.py", line 1, in <module>
+    from .PredictorRequest import PredictorRequest 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/contexts/api/models/PredictorRequest.py", line 10, in <module>
+    class PredictorRequest(BaseModel):
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 173, in __new__
+    complete_model_class(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 463, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/main.py", line 549, in __get_pydantic_core_schema__
+    return __handler(__source)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 426, in generate_schema
+    return self._generate_schema_for_type(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 458, in _generate_schema_for_type
+    schema = self._generate_schema(obj)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 684, in _generate_schema
+    return self._model_schema(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 478, in _model_schema
+    check_decorator_fields_exist(
+  File "/usr/local/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py", line 152, in check_decorator_fields_exist
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: Decorators defined with incorrect fields: src.contexts.api.models.PredictorRequest.PredictorRequest:187651380478208.validate_sex (use check_fields=False if you're inheriting from the model and intended this)
+
+For further information visit https://errors.pydantic.dev/2.1.1/u/decorator-missing-field

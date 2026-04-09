@@ -1,0 +1,2624 @@
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (3.227.209.82), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.213.155.45), port 6543 failed: FATAL:  Tenant or user not found
+
+
+
+ 🏁 start app: TrainModel
+start train model cron in hour: 01:00
+si se lee en env
+Error al conectar o recuperar datos: connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+connection to server at "aws-1-us-east-1.pooler.supabase.com" (18.214.78.123), port 6543 failed: FATAL:  Tenant or user not found
+
